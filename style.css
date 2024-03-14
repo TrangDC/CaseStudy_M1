@@ -1,0 +1,23 @@
+body {
+    align-items: center;
+    background-color: beige;
+    justify-content:center;
+    display: flex;
+}
+
+#myCanvas {
+    background-color: bisque;
+    align-items: center;
+    border: 1px solid black;
+    justify-content: center;
+}
+
+#reset {
+    width: 100px;
+    height: 50px;
+    background-color: aquamarine;
+    align-items: center;
+    position: absolute;
+    top: 75%;
+    left: 47%;
+}
